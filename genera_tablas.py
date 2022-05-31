@@ -83,7 +83,7 @@ class Parroquia(Base):
     
     def __repr__(self):
         return "Parroquia: codigoParroquia=%s - nombreParroquia=%s " % (
-                self.codigoProvincia,
+                self.codigoParroquia,
                 self.nombreParroquia)
 
 Base.metadata.create_all(engine)

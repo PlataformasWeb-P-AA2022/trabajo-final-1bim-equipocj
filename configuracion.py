@@ -9,4 +9,4 @@
 # para el uso de este dialecto en SqlAlchemy
 # instalar "pip install PyMySQL"
 
-cadena_base_datos = 'mysql+mysqlconnector://root:anaivargas@localhost:3305/final1bimaa22'
+cadena_base_datos = 'mysql+mysqlconnector://root:carlos@localhost:3306/final1bimaa22'
